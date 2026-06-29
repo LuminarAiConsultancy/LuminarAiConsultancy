@@ -21,4 +21,4 @@ I'm a governance practitioner who also ships the code. That combination shapes e
 ---
 
 📍 British Columbia, Canada
-🔗 [LinkedIn](https://www.linkedin.com/in/joyfuyor) · [LUMINARYX](https://luminaryx.ca)
+🔗 [LinkedIn](https://www.linkedin.com/in/joyguyot) · [LUMINARYX](https://luminaryx.ca)
