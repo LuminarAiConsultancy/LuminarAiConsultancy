@@ -34,7 +34,7 @@ The hard parts, and how it's built:
 
 ### Background
 
-18 years in IT operations, self-taught developer, and a sitting municipal councillor — so I've watched the gap between AI adoption and operational governance up close. I architected and shipped LUMINARYX solo, and I build for the people who have to defend the decision later.
+Over 30 years in business and tech operations, self-taught developer, and a sitting municipal councillor — so I've watched the gap between AI adoption and operational governance up close. I architected and shipped LUMINARYX solo, and I build for the people who have to defend the decision later.
 
 ---
 
